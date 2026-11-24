@@ -1,2 +1,3 @@
-# lts-placeholder
-Placeholder website
+# LTS homepage
+
+A small placeholder page for LTS at https://lts.net.tr/.
